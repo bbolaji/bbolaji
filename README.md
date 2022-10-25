@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbolaji
-- 👀 I’m interested in ...data analysis
+- 👀 I’m interested in ...data analysis|automation|machine learning|business Analysis
 - 🌱 I’m currently learning ...extraction of nested data
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via email @ babalola.abdulganiyu@gmail.com 
